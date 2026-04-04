@@ -2,8 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/EmailService/bin
-/bin
-/EmailService/obj
-/obj
-/EmailService/.vs
+/.vs/EmailService/CopilotIndices/18.4.114.215

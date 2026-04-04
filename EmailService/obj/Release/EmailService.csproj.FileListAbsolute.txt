@@ -1,0 +1,16 @@
+C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe.config
+C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe.manifest
+C:\Workspace\EmailService\EmailService\bin\Release\EmailService.application
+C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+C:\Workspace\EmailService\EmailService\bin\Release\EmailService.pdb
+C:\Workspace\EmailService\EmailService\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Workspace\EmailService\EmailService\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Workspace\EmailService\EmailService\obj\Release\EmailService.csproj.AssemblyReference.cache
+C:\Workspace\EmailService\EmailService\obj\Release\EmailService.ProjectInstaller.resources
+C:\Workspace\EmailService\EmailService\obj\Release\EmailService.csproj.GenerateResource.cache
+C:\Workspace\EmailService\EmailService\obj\Release\EmailService.csproj.CoreCompileInputs.cache
+C:\Workspace\EmailService\EmailService\obj\Release\EmailService.exe.manifest
+C:\Workspace\EmailService\EmailService\obj\Release\EmailService.application
+C:\Workspace\EmailService\EmailService\obj\Release\EmailSer.199DDF96.Up2Date
+C:\Workspace\EmailService\EmailService\obj\Release\EmailService.exe
+C:\Workspace\EmailService\EmailService\obj\Release\EmailService.pdb

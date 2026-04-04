@@ -1,0 +1,167 @@
+﻿Installing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe assembly.
+Committing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Restoring event log to previous state for source EmailService.
+Installing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Restoring event log to previous state for source EmailService.
+Installing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Restoring event log to previous state for source EmailService.
+Uninstalling assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe
+Uninstalling assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Uninstalling assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe
+Removing EventLog source EmailService.
+Service EmailService is being removed from the system...
+Service EmailService was successfully removed from the system.
+Installing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe
+Installing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Restoring event log to previous state for source EmailService.
+Installing assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+Restoring event log to previous state for source EmailService.
+Installing assembly 'C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.exe
+Restoring event log to previous state for source EmailService.
+Installing assembly 'C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.exe
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.InstallLog
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.exe

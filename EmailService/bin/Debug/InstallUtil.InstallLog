@@ -1,0 +1,114 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.exe assembly's progress.
+The file is located at C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\emailservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

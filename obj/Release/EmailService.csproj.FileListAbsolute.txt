@@ -1,0 +1,13 @@
+C:\Workspace\EmailService\bin\Release\EmailService.exe.config
+C:\Workspace\EmailService\bin\Release\EmailService.exe
+C:\Workspace\EmailService\bin\Release\EmailService.pdb
+C:\Workspace\EmailService\bin\Release\log4net.dll
+C:\Workspace\EmailService\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Workspace\EmailService\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Workspace\EmailService\obj\Release\EmailService.csproj.AssemblyReference.cache
+C:\Workspace\EmailService\obj\Release\EmailService.ProjectInstaller.resources
+C:\Workspace\EmailService\obj\Release\EmailService.csproj.GenerateResource.cache
+C:\Workspace\EmailService\obj\Release\EmailService.csproj.CoreCompileInputs.cache
+C:\Workspace\EmailService\obj\Release\EmailSer.199DDF96.Up2Date
+C:\Workspace\EmailService\obj\Release\EmailService.exe
+C:\Workspace\EmailService\obj\Release\EmailService.pdb

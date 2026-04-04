@@ -1,0 +1,17 @@
+C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe.config
+C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.exe
+C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\EmailService.pdb
+C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\prade\source\repos\EmailService\EmailService\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\prade\source\repos\EmailService\EmailService\obj\Debug\EmailService.csproj.AssemblyReference.cache
+C:\Users\prade\source\repos\EmailService\EmailService\obj\Debug\EmailService.ProjectInstaller.resources
+C:\Users\prade\source\repos\EmailService\EmailService\obj\Debug\EmailService.csproj.GenerateResource.cache
+C:\Users\prade\source\repos\EmailService\EmailService\obj\Debug\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\EmailService\EmailService\obj\Debug\EmailSer.199DDF96.Up2Date
+C:\Users\prade\source\repos\EmailService\EmailService\obj\Debug\EmailService.exe
+C:\Users\prade\source\repos\EmailService\EmailService\obj\Debug\EmailService.pdb
+C:\Workspace\EmailService\EmailService\bin\Debug\EmailService.exe
+C:\Workspace\EmailService\EmailService\obj\Debug\EmailService.csproj.AssemblyReference.cache
+C:\Workspace\EmailService\EmailService\obj\Debug\EmailService.ProjectInstaller.resources
+C:\Workspace\EmailService\EmailService\obj\Debug\EmailService.csproj.GenerateResource.cache
+C:\Workspace\EmailService\EmailService\obj\Debug\EmailService.csproj.CoreCompileInputs.cache

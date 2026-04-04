@@ -1,0 +1,65 @@
+﻿Installing assembly 'C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.InstallLog
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.InstallLog
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+Restoring event log to previous state for source EmailService.
+Installing assembly 'C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.InstallLog
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.InstallLog
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+Restoring event log to previous state for source EmailService.
+Installing assembly 'C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.InstallLog
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.InstallLog
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+Restoring event log to previous state for source EmailService.
+Installing assembly 'C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+   logfile = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.InstallLog
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+   logfile = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.InstallLog
+Restoring event log to previous state for source EmailService.
+Installing assembly 'C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+   logfile = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.InstallLog
+Installing service EmailService...
+Creating EventLog source EmailService in log Application...
+Rolling back assembly 'C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.exe
+   logfile = C:\Workspace\EmailService\EmailService\bin\Release\EmailService.InstallLog
+Restoring event log to previous state for source EmailService.

@@ -1,0 +1,39 @@
+﻿Installing assembly 'C:\Workspace\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Workspace\EmailService\bin\Release\EmailService.exe
+   logfile = C:\Workspace\EmailService\bin\Release\EmailService.InstallLog
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Workspace\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Workspace\EmailService\bin\Release\EmailService.exe
+   logfile = C:\Workspace\EmailService\bin\Release\EmailService.InstallLog
+Installing assembly 'C:\Workspace\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Workspace\EmailService\bin\Release\EmailService.exe
+   logfile = C:\Workspace\EmailService\bin\Release\EmailService.InstallLog
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Workspace\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Workspace\EmailService\bin\Release\EmailService.exe
+   logfile = C:\Workspace\EmailService\bin\Release\EmailService.InstallLog
+Installing assembly 'C:\Workspace\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Workspace\EmailService\bin\Release\EmailService.exe
+   logfile = C:\Workspace\EmailService\bin\Release\EmailService.InstallLog
+Installing service EmailService...
+Service EmailService has been successfully installed.
+Creating EventLog source EmailService in log Application...
+Committing assembly 'C:\Workspace\EmailService\bin\Release\EmailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Workspace\EmailService\bin\Release\EmailService.exe
+   logfile = C:\Workspace\EmailService\bin\Release\EmailService.InstallLog
